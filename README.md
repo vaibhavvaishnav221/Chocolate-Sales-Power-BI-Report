@@ -46,4 +46,5 @@ This Chocolate Sales Dashboard includes the following features:
 ## 🗂️ Folder Structure  
 The project is organized as follows:  
 1. Power BI Report - [Chocolate Sales Power BI Report](https://github.com/vaibhavvaishnav221/Chocolate-Sales-Power-BI-Report/blob/main/Chocolate%20Sales.pbix "Chocolate Sales Report")
-2. MS Excel Data Source - Chocolate Sales.pbix
+2. MS Excel Data Source - [Chocolate Sales Data](https://github.com/vaibhavvaishnav221/Chocolate-Sales-Power-BI-Report/blob/main/Chocolate%20Sales.xlsx "Chocolate Sales Data")
+3. Power BI Report Preview - [Chocolate Sales Report Image](https://github.com/vaibhavvaishnav221/Chocolate-Sales-Power-BI-Report/blob/main/Screenshot%20(78).png "Chocolate Sales Report Image")
