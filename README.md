@@ -43,3 +43,4 @@ This Chocolate Sales Dashboard includes the following features:
 
 ## 🗂️ Folder Structure  
 The project is organized as follows:
+![Paytm](https://assetscdn1.paytm.com/images/catalog/view/329465/1689311662537.png "Paytm India")
