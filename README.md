@@ -4,7 +4,7 @@
 This Power BI project focuses on analyzing the **sales performance** of a chocolate-selling company. The dashboard provides detailed insights into sales trends, performance by products and regions, and contributions by individual salespersons.
 
 ### **Data Source**  
-The analysis is based on a structured dataset obtained from **[Insert Source Here]**. The dataset includes transactional data such as sales amounts, product categories, sales regions, and salesperson details.
+The analysis is based on a structured dataset obtained from **[Chocolate Sales Data](<Chocolate Sales.xlsx>)**. The dataset includes transactional data such as sales amounts, product categories, sales regions, and salesperson details.
 
 ### **Purpose**  
 The purpose of this dashboard is to empower stakeholders with actionable insights into sales performance and trends.  
