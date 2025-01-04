@@ -43,14 +43,3 @@ This Chocolate Sales Dashboard includes the following features:
 
 ## 🗂️ Folder Structure  
 The project is organized as follows:
-``` javascript
-var name = "Hitesh";
-console.log(name)
-```
-
-Tables
-|Name|Class|
-|---|---|
-|Vaibhav| 10|
-|Ramesh| 12|
-|Ganesh| 9|
