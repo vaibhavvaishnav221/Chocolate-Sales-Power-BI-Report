@@ -1,7 +1,7 @@
 # Chocolate Sales Dashboard 🍫🍰🍩🍪🧁🍬🛠️
 
 ## 📊 Overview  
-This Power BI project focuses on analyzing the **sales performance** of a chocolate-selling company. The dashboard provides detailed insights into sales trends, performance by products and regions, and contributions by individual salespersons.
+This [Power BI project](https://github.com/vaibhavvaishnav221/Chocolate-Sales-Power-BI-Report/blob/main/Chocolate%20Sales.pbix "Chocolate Sales Dashboard") focuses on analyzing the **sales performance** of a chocolate-selling company. The dashboard provides detailed insights into sales trends, performance by products and regions, and contributions by individual salespersons.
 
 ![Chocolate Sales Dashboard](https://github.com/vaibhavvaishnav221/Chocolate-Sales-Power-BI-Report/blob/main/Screenshot%20(78).png?raw=true "Chocolate Sales Dashboard")
 
