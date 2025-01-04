@@ -42,4 +42,4 @@ This Chocolate Sales Dashboard includes the following features:
 ---
 
 ## 🗂️ Folder Structure  
-The project is organized as follows:  
+The project is organized as follows:
